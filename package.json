@@ -1,0 +1,63 @@
+{
+  "_from": "react-native-inline-calendar",
+  "_id": "react-native-inline-calendar@0.4.6",
+  "_inBundle": false,
+  "_integrity": "sha512-zgkN/5jlvS7NbiOk+pCzAjIk9i89k2xq80PZp/gHhFh9l4suLB6tbAmGkjXHGjteZDmEWY7Yd0FSJSEVi/FFvw==",
+  "_location": "/react-native-inline-calendar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-inline-calendar",
+    "name": "react-native-inline-calendar",
+    "escapedName": "react-native-inline-calendar",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-inline-calendar/-/react-native-inline-calendar-0.4.6.tgz",
+  "_shasum": "dc953654eb0168bb0ff6dfb521c7ade5c9cfe7b3",
+  "_spec": "react-native-inline-calendar",
+  "_where": "/Users/dwi.dev/Documents/Works/Migration/hrdashboardpkc",
+  "author": {
+    "name": "ger_eXciTer"
+  },
+  "bugs": {
+    "url": "https://github.com/web-gears/react-native-inline-calendar/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "date-fns": "^1.29.0"
+  },
+  "deprecated": false,
+  "description": "React Native component that renders selectable monthly calendar or week stripe with agenda for selected date",
+  "devDependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.5.0",
+    "react-native": "^0.57.1"
+  },
+  "homepage": "https://github.com/web-gears/react-native-inline-calendar#readme",
+  "keywords": [
+    "react",
+    "react-native",
+    "calendar",
+    "agenda",
+    "stripe",
+    "datepicker"
+  ],
+  "license": "MIT",
+  "main": "main.js",
+  "name": "react-native-inline-calendar",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-gears/react-native-inline-calendar.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.4.6"
+}
